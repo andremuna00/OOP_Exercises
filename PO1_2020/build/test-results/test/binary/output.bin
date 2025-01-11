@@ -1,0 +1,187 @@
+Board at the beginning:
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 1
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 2
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  X  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 3
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  O  e  e  e  e  X  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 4
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  O  e  e  e  e  X  X  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 5
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  O  e  e  e  e  X  X  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 6
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  O  e  e  e  e  X  X  X  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 7
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+. e  e  O  e  e  e  e  X  X  X  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 8
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+. e  e  O  e  e  e  e  X  X  X  X  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 9
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+. e  e  O  e  e  e  e  X  X  X  X  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 10
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+. e  e  O  e  e  e  e  X  X  X  X  X  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+. e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+. e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+

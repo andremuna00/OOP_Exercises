@@ -1,0 +1,22 @@
+it/unive/dais/po1/exercise2/ClassProvider.java
+ it.unive.dais.po1.exercise2.ClassProvider
+it/unive/dais/po1/exercise1/TesterCodeStructure.java
+ it.unive.dais.po1.exercise1.TesterCodeStructure
+ it.unive.dais.po1.exercise1.TesterCodeStructure$InnerTester
+it/unive/dais/po1/exercise3/ClassProvider.java
+ it.unive.dais.po1.exercise3.ClassProvider
+it/unive/dais/po1/exercise2/TestPlayer.java
+ it.unive.dais.po1.exercise2.TestPlayer
+it/unive/dais/po1/exercise2/TesterCodeStructure.java
+ it.unive.dais.po1.exercise2.TesterCodeStructure
+ it.unive.dais.po1.exercise2.TesterCodeStructure$InnerTester
+it/unive/dais/po1/exercise3/TestPlayer.java
+ it.unive.dais.po1.exercise3.TestPlayer
+it/unive/dais/po1/exercise1/TestBoard.java
+ it.unive.dais.po1.exercise1.TestBoard
+it/unive/dais/po1/exercise1/TestPlayer.java
+ it.unive.dais.po1.exercise1.TestPlayer
+it/unive/dais/po1/exercise2/TestBoard.java
+ it.unive.dais.po1.exercise2.TestBoard
+it/unive/dais/po1/exercise3/TestBoard.java
+ it.unive.dais.po1.exercise3.TestBoard

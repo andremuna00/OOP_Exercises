@@ -1,0 +1,94 @@
+it/unive/dais/po1/exercise3/Result.java
+ it.unive.dais.po1.exercise3.Result
+it/unive/dais/po1/exercise3/GameException.java
+ it.unive.dais.po1.exercise3.GameException
+it/unive/dais/po1/vehicle/NegativeSpeedException.java
+ it.unive.dais.po1.vehicle.NegativeSpeedException
+it/unive/dais/po1/Printable.java
+ it.unive.dais.po1.Printable
+it/unive/dais/po1/polygon/Quadrilateral.java
+ it.unive.dais.po1.polygon.Quadrilateral
+it/unive/dais/po1/car/Car.java
+ it.unive.dais.po1.car.Car
+it/unive/dais/po1/polygon/Rhombus.java
+ it.unive.dais.po1.polygon.Rhombus
+it/unive/dais/po1/polygon/Square.java
+ it.unive.dais.po1.polygon.Square
+it/unive/dais/po1/Runner.java
+ it.unive.dais.po1.Runner
+it/unive/dais/po1/exercise2/Player.java
+ it.unive.dais.po1.exercise2.Player
+it/unive/dais/po1/exercise3/Player.java
+ it.unive.dais.po1.exercise3.Player
+it/unive/dais/po1/polygon/Polygon.java
+ it.unive.dais.po1.polygon.Polygon
+it/unive/dais/po1/vehicle/LoadableUnloadable.java
+ it.unive.dais.po1.vehicle.LoadableUnloadable
+it/unive/dais/po1/exercise3/Board.java
+ it.unive.dais.po1.exercise3.Board
+it/unive/dais/po1/exercise3/RandomPlayer.java
+ it.unive.dais.po1.exercise3.RandomPlayer
+it/unive/dais/po1/vehicle/Vehicle.java
+ it.unive.dais.po1.vehicle.Vehicle
+it/unive/dais/po1/exercise1/TicTacToeBoard.java
+ it.unive.dais.po1.exercise1.TicTacToeBoard
+it/unive/dais/po1/exercise3/Mark.java
+ it.unive.dais.po1.exercise3.Mark
+it/unive/dais/po1/vehicle/Speed.java
+ it.unive.dais.po1.vehicle.Speed
+it/unive/dais/po1/car/fuel/FuelTank.java
+ it.unive.dais.po1.car.fuel.FuelTank
+it/unive/dais/po1/exercise2/Game.java
+ it.unive.dais.po1.exercise2.Game
+it/unive/dais/po1/exercise2/m879607/TicTacToeBoard.java
+ it.unive.dais.po1.exercise2.m879607.TicTacToeBoard
+it/unive/dais/po1/exercise3/Standing.java
+ it.unive.dais.po1.exercise3.Standing
+it/unive/dais/po1/exercise1/Mark.java
+ it.unive.dais.po1.exercise1.Mark
+it/unive/dais/po1/car/ThiefCar.java
+ it.unive.dais.po1.car.ThiefCar
+it/unive/dais/po1/polygon/Pentagon.java
+ it.unive.dais.po1.polygon.Pentagon
+it/unive/dais/po1/polygon/Rectangle.java
+ it.unive.dais.po1.polygon.Rectangle
+it/unive/dais/po1/car/fuel/FuelTypeCache.java
+ it.unive.dais.po1.car.fuel.FuelTypeCache
+it/unive/dais/po1/exercise3/m879607/Standing.java
+ it.unive.dais.po1.exercise3.m879607.Standing
+it/unive/dais/po1/car/Truck.java
+ it.unive.dais.po1.car.Truck
+it/unive/dais/po1/exercise3/m879607/TicTacToeBoard.java
+ it.unive.dais.po1.exercise3.m879607.TicTacToeBoard
+it/unive/dais/po1/exercise3/m879607/Tournament.java
+ it.unive.dais.po1.exercise3.m879607.Tournament
+it/unive/dais/po1/exercise3/Game.java
+ it.unive.dais.po1.exercise3.Game
+it/unive/dais/po1/exercise2/m879607/Player.java
+ it.unive.dais.po1.exercise2.m879607.Player
+it/unive/dais/po1/vehicle/Racing.java
+ it.unive.dais.po1.vehicle.Racing
+it/unive/dais/po1/bicycle/Bicycle.java
+ it.unive.dais.po1.bicycle.Bicycle
+it/unive/dais/po1/car/fuel/FuelType.java
+ it.unive.dais.po1.car.fuel.FuelType
+it/unive/dais/po1/exercise3/m879607/Player.java
+ it.unive.dais.po1.exercise3.m879607.Player
+it/unive/dais/po1/vehicle/Loadable.java
+ it.unive.dais.po1.vehicle.Loadable
+it/unive/dais/po1/exercise1/Player.java
+ it.unive.dais.po1.exercise1.Player
+it/unive/dais/po1/exercise3/m879607/GomokuBoard.java
+ it.unive.dais.po1.exercise3.m879607.GomokuBoard
+it/unive/dais/po1/vehicle/HorseCart.java
+ it.unive.dais.po1.vehicle.HorseCart
+it/unive/dais/po1/exercise2/Mark.java
+ it.unive.dais.po1.exercise2.Mark
+it/unive/dais/po1/exercise3/Tournament.java
+ it.unive.dais.po1.exercise3.Tournament
+it/unive/dais/po1/exercise1/Game.java
+ it.unive.dais.po1.exercise1.Game
+it/unive/dais/po1/exercise2/Board.java
+ it.unive.dais.po1.exercise2.Board
+it/unive/dais/po1/exercise2/m879607/GomokuBoard.java
+ it.unive.dais.po1.exercise2.m879607.GomokuBoard

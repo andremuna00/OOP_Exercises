@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unive.dais.po1.exercise3.TestPlayer" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-30T14:49:05" hostname="DESKTOP-JV410L3" time="0.043">
+  <properties/>
+  <testcase name="testSingleRounds" classname="it.unive.dais.po1.exercise3.TestPlayer" time="0.011"/>
+  <testcase name="testFullGame" classname="it.unive.dais.po1.exercise3.TestPlayer" time="0.032"/>
+  <system-out><![CDATA[Board at the beginning:
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 1
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 2
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  X  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 3
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  O  e  e  e  e  X  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 4
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  O  e  e  e  e  X  X  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 5
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  O  e  e  e  e  X  X  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 6
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  O  e  e  e  e  X  X  X  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 7
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+ e  e  O  e  e  e  e  X  X  X  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 8
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+ e  e  O  e  e  e  e  X  X  X  X  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 9
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+ e  e  O  e  e  e  e  X  X  X  X  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+Board after round 10
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  O  e  e  e 
+ e  e  O  e  e  e  e  X  X  X  X  X  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  O  e  e  e  e  e  e  e  e 
+ e  e  e  O  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+ e  e  e  e  e  e  e  e  e  e  e  e  e  e  e 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
