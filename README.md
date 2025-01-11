@@ -84,18 +84,6 @@ Simply navigate to the `/tests` directory and run the test cases for instant fee
 
 ---
 
-## 🌟 Showcase  
-
-🎥 **Game Simulation Snapshots**  
-Experience the gameplay directly in your console with visual representations of the board.  
-
-| 📌 Feature               | 🖼️ Snapshot            |  
-|--------------------------|------------------------|  
-| Tic-Tac-Toe Board        | X | O | O            |  
-| Gomoku Gameplay          | X | X | X | X | O    |  
-
----
-
 ## 📜 License  
 
 📄 This repository is licensed under the **MIT License**. Feel free to use and modify it for your learning purposes!  
